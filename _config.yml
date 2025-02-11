@@ -1,13 +1,12 @@
 title: Candace Eje # your name (or website title) here
 logo: "/images/1731984845497.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  UCLA Alum 
-  <br><br>
-  Data Science and Research 
-  <br><br>
-<a href="https://www.linkedin.com/in/candaceeje/">View My LinkedIn Profile</a>
+  UCLA Alum  
+  Data Science and Research  
+
+  [View My LinkedIn Profile](https://www.linkedin.com/in/candaceeje/)
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google_analytics: G-4JLDT1N8QW # your Google Analytics tracking ID here 
+  - jekyll-remote-theme
+google_analytics: G-4JLDT1N8QW # your Google Analytics tracking ID here
