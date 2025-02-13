@@ -4,6 +4,9 @@
 
 ### Category Name 1 
 
+[Penguin Project](Copy_of_Penguin_Project.ipynb)
+<img src="images/Penguins Photo.jpeg.jpg?raw=true"/>  
+
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
