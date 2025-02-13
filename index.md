@@ -1,26 +1,25 @@
 ## Portfolio
 
 ---
+<!-- Category Name 1 -->
+### Machine Learning and Data Science 
 
-### Category Name 1 
-
-[Penguin Project](Copy_of_Penguin_Project.ipynb)
-<img src="images/Penguins Photo.jpeg.jpg?raw=true"/>  
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 [Feature Selection for Predictive Model](https://colab.research.google.com/github/candaceeje/candaceeje.github.io/blob/master/Copy_of_Penguin_Project.ipynb#scrollTo=mBp8MXBHh6LV)
 <img src="images/Penguins Photo.jpeg?raw=true"/>
 
 ---
 
-### Category Name 2
+[Project 2 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 3 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+<!-- Category Name 2 -->
+### Tableu Visualizations 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
