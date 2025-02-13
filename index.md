@@ -28,7 +28,15 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+<!-- Category Name 3 -->
+### Research 
 
+- [Project 1 Title](http://example.com/)
+- [Project 1 Title PDF](/pdf/ExamplePath.pdf) <!-- You have to insert the pdf into repository and paste in the path -->
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
 
 
