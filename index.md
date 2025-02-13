@@ -16,7 +16,7 @@
 
 ---
 [Feature Selection for Predictive Model](https://colab.research.google.com/github/candaceeje/candaceeje.github.io/blob/master/Copy_of_Penguin_Project.ipynb#scrollTo=mBp8MXBHh6LV)
-<img src="candaceeje.github.io/images/Penguins Photo.jpeg?raw=true"/>
+<img src="images/Penguins Photo.jpeg?raw=true"/>
 
 ---
 
