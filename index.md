@@ -15,8 +15,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Feature Selection for Predictive Model](https://colab.research.google.com/github/candaceeje/candaceeje.github.io/blob/master/Copy_of_Penguin_Project.ipynb#scrollTo=mBp8MXBHh6LV)
+<img src="candaceeje.github.io/images/Penguins Photo.jpeg?raw=true"/>
 
 ---
 
